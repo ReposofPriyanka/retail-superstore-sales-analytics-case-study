@@ -91,5 +91,4 @@ Loyal customers present strong upselling and cross-selling potential.
 
 ## Author
 
-Priyanka Goswami
-Aspiring Data Analyst
+Priyanka Goswami | Aspiring Data Analyst
