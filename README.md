@@ -1,4 +1,4 @@
-# Sales Analytics & Business Insights Dashboard
+# Retail Sales Analytics, Forecasting & Business Intelligence
 
 ## Project Overview
 
